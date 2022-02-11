@@ -1,4 +1,4 @@
-# Rangkuman Video 3 "Branch"
+# Rangkuman Video 3 "Github Branch"
 * Definisi Branch  
 Percabangan selain jalur utama / master     
 * Branching  
@@ -6,4 +6,4 @@ Percabangan selain jalur utama / master
 2.Membuat Snapshot tanpa mengganggu jalur utama  
 3.Fitur Experiment  
 4.2 orang mengerjakan repo yang sama
-![vid2](foto_2.jpg)
+![vid2](foto_3.jpg)
