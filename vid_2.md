@@ -4,5 +4,4 @@ Sistem yang menyimpan dan mengelola rekaman perubahan dari source code
 * Git  
 Salah satu software yang bisa melakukan VCS
 * Github  
-Website / layanan untuk mengelola projek git  
-![Vid 1](vid_1_foto.jpg)
+Website / layanan untuk mengelola projek git
