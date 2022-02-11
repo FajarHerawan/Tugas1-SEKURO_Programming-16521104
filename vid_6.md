@@ -1,4 +1,4 @@
-# Rangkuman Video 5 "Bekerja dengan Git"
+# Rangkuman Video 6 "Git branch dan merge"
 * Mulai belajar git secara lokal di komputer kita  
 1.membuat repositor dan beberapa stage dalam git   
 2.git add,commit,log,checkout  
