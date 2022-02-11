@@ -1,7 +1,5 @@
-# Rangkuman Video 1 "Apa itu GIT dan Github ?"
-* Version Control System   
-Sistem yang menyimpan dan mengelola rekaman perubahan dari source code
-* Git  
-Salah satu software yang bisa melakukan VCS
-* Github  
-Website / layanan untuk mengelola projek git
+# Rangkuman Video 2 "Bekerja dengan Github"
+* Membuat Akun Github
+* Membuat Repository di Akun Github
+* Melakukan commit pada repository di dalam akun Github  
+![vid2](foto_2.jpg)
