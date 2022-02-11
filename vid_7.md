@@ -1,6 +1,3 @@
-# Rangkuman Video 7 "Git ignore"
-* Mulai belajar git secara lokal di komputer kita  
-1.membuat repositor dan beberapa stage dalam git   
-2.git add,commit,log,checkout  
-3.Instalasi git untuk pengguna baru  
+# Rangkuman Video 7 ".gitignore"
+* Mengabaikan file yang akan kita add di git  
 ![vid2](foto_7.jpg)
